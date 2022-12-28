@@ -1,0 +1,87 @@
+.headfoot{
+    height: 100px;
+}
+#head{
+    background-color: salmon;
+}
+#foot{
+    background-color: pink;
+}
+td{
+    height: 120px;
+    width: 120px;
+    text-align: center;
+    line-height: 0;
+}
+#t1_1{
+    background-color: white;
+}
+#t1_2{
+    background-color: silver;
+}
+#t1_3{
+    background-color: gray;
+}
+#t1_4{
+    background-color: black;
+}
+#t2_1{
+    background-color: red;
+}
+#t2_2{
+    background-color: maroon;
+}
+#t2_3{
+    background-color: yellow;
+}
+#t2_4{
+    background-color: olive;
+}
+#t3_1{
+    background-color: lime;
+}
+#t3_2{
+    background-color: green;
+}
+#t3_3{
+    background-color: aqua;
+}
+#t3_4{
+    background-color: teal;
+}
+#t4_1{
+    background-color: blue;
+}
+#t4_2{
+    background-color: navy;
+}
+#t4_3{
+    background-color: fuchsia;
+}
+#t4_4{
+    background-color: purple;
+}
+#w1{
+    background-color: orange;
+}
+#w2{
+    background-color: gold;
+}
+#w3{
+    background-color: violet;
+}
+#w4{
+    background-color: olive;
+}
+#w5{
+    background-color: skyblue;
+}
+#w6{
+    background-color: brown;
+}
+#w7{
+    background-color: beige;
+}
+#w8{
+    background-color: slategray;
+}
